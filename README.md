@@ -4,6 +4,6 @@ Just started development.
 Files:
 server (server)
 client
- - src: source code
- - build: deploy this
+ \- src: source code
+ \- build: deploy this
 
